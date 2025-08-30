@@ -1,0 +1,19 @@
+#Create a new folder
+mkdir folder name
+
+#Start working in folder
+cd folder name
+
+#Create a new file
+New-Item file name
+
+#display message
+print
+
+#save and commit
+crl+s
+git add .
+git commit -m "detailed message"
+git push
+
+#
